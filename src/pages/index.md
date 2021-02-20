@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Frontend Engineer with a passion
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Frontend Engineer with a passion
+subheading: ReactJS, Angular, NodeJS, Android, FireTv
 mainpitch:
   title: Why Kaldi
   description: >
