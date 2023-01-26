@@ -107,7 +107,7 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div> */}
-        <p>&copy; All rights reserved 2021</p>
+        <p>&copy; All rights reserved 2020 - 2023</p>
       </footer>
     );
   }
