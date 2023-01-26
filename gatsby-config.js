@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Muthu Vijayan Space for frontend enthusiast",
+    title: "Connecting space for frontend enthusiast",
     description:
       "Personal space of Muthu Vijayan, a fellow engineer where he share his findings with rest of the world",
   },
